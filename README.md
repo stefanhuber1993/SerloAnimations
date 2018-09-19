@@ -6,4 +6,4 @@ The code was used to make figures for this wikibooks book:
 https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Abbildungen,_Homomorphismus
 
 e.g.
-![alt text](https://github.com/stefanhuber1993/SerloAnimations/streckung_homogenitaet.gif)
+![alt text](https://github.com/stefanhuber1993/SerloAnimations/blob/master/streckung_homogenitaet.gif)
