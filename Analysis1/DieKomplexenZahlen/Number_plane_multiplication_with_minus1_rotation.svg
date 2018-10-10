@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.3.1 r9886" sodipodi:docname="Zahlengerade.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 312.5 213"
+	 style="enable-background:new 0 0 312.5 213;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{stroke:#000000;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:15px;}
+	.st4{fill:none;stroke:#000000;}
+	.st5{fill:none;stroke:#FF0000;}
+	.st6{fill:#FF0000;}
+	.st7{font-size:12px;}
+	.st8{fill:none;stroke:#FF0000;stroke-miterlimit:10;}
+	.st9{fill:none;stroke:#000000;stroke-dasharray:1.0667,1.0667;}
+	.st10{fill:none;stroke:#000000;stroke-dasharray:0.9282,0.9282;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="10" fit-margin-left="10" fit-margin-right="10" fit-margin-top="10" id="base" inkscape:current-layer="layer2" inkscape:cx="40.13189" inkscape:cy="121.63881" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1138" inkscape:window-maximized="1" inkscape:window-width="1912" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.87707447" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="ray">
+	<path class="st0" d=""/>
+	<path id="path3762" inkscape:connector-curvature="0" class="st1" d="M356.4,527.6l-4,4l14-4l-14-4L356.4,527.6z"/>
+	<path id="path2985" inkscape:connector-curvature="0" class="st1" d="M366.4,527.6"/>
+</g>
+<g id="layer5" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="0 and 1">
+	<text transform="matrix(1 0 0 1 262.3195 551.4889)" class="st2 st3">1</text>
+	<path id="path4200-89" inkscape:connector-curvature="0" class="st4" d="M267.2,518.5v18.1"/>
+</g>
+<g id="layer2" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="other numbers">
+	<text transform="matrix(1 0 0 1 322.1649 551.6866)" class="st2 st3">2</text>
+	<path id="path4200-3" inkscape:connector-curvature="0" class="st4" d="M326.7,518.5v18.1"/>
+	<text transform="matrix(1 0 0 1 139.043 551.4889)" class="st2 st3">-1</text>
+	<text transform="matrix(1 0 0 1 79.5894 551.6866)" class="st2 st3">-2</text>
+	<path id="path4200-8" inkscape:connector-curvature="0" class="st4" d="M88.7,518.5v18.1"/>
+	<path id="path4200-7" inkscape:connector-curvature="0" class="st4" d="M148.2,518.5v18.1"/>
+</g>
+<path id="path4200_1_" inkscape:connector-curvature="0" class="st4" d="M294.3,161.7H14"/>
+<line class="st5" x1="227" y1="161.9" x2="227" y2="174.2"/>
+<rect x="224.3" y="177.1" class="st0" width="6.5" height="11"/>
+<text transform="matrix(1 0 0 1 224.3333 185.6299)" class="st6 st2 st7">x</text>
+<line class="st5" x1="65.7" y1="161.1" x2="65.7" y2="173.4"/>
+<rect x="60.8" y="176.7" class="st0" width="9.7" height="11.8"/>
+<text transform="matrix(1 0 0 1 60.81 185.2373)" class="st6 st2 st7">-x</text>
+<path id="path3762_1_" inkscape:connector-curvature="0" class="st1" d="M142.4,19.4l4,4l-4-14l-4,14L142.4,19.4z"/>
+<path id="path2985_1_" inkscape:connector-curvature="0" class="st1" d="M142.4,9.4"/>
+<g id="layer2_1_" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="other numbers">
+	<path id="path4200-3_1_" inkscape:connector-curvature="0" class="st4" d="M194.7,414.9h18.1"/>
+	<path id="path4200-3_2_" inkscape:connector-curvature="0" class="st4" d="M194.7,471.9h18.1"/>
+</g>
+<path id="path4200_2_" inkscape:connector-curvature="0" class="st4" d="M142.4,20.1v180.3"/>
+<path class="st8" d="M65.7,149.3c0-43.2,36.1-78.3,80.7-78.3s80.7,35.1,80.7,78.3"/>
+<line class="st8" x1="65.4" y1="149.6" x2="70.5" y2="144.3"/>
+<line class="st8" x1="61.3" y1="144" x2="65.9" y2="149.6"/>
+<g>
+	<g>
+		<line class="st4" x1="142.4" y1="201.3" x2="142.4" y2="201.8"/>
+		<line class="st9" x1="142.4" y1="202.9" x2="142.4" y2="206.6"/>
+		<line class="st4" x1="142.4" y1="207.2" x2="142.4" y2="207.7"/>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st4" x1="6.5" y1="161.7" x2="7" y2="161.7"/>
+		<line class="st10" x1="7.9" y1="161.7" x2="13" y2="161.7"/>
+		<line class="st4" x1="13.5" y1="161.7" x2="14" y2="161.7"/>
+	</g>
+</g>
+</svg>

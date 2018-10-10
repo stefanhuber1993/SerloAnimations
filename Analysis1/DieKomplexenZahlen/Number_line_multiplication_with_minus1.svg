@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.3.1 r9886" sodipodi:docname="Zahlengerade.svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.5 53.9"
+	 style="enable-background:new 0 0 456.5 53.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#FF0000;}
+	.st1{fill:none;stroke:#FF0000;stroke-dasharray:2.0761,2.0761;}
+	.st2{fill:none;}
+	.st3{stroke:#000000;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:15px;}
+	.st6{fill:none;stroke:#000000;}
+	.st7{fill:#FF0000;}
+	.st8{font-size:12px;}
+</style>
+<g>
+	<g>
+		<line class="st0" x1="224.2" y1="0" x2="224.2" y2="1"/>
+		<line class="st1" x1="224.2" y1="3.1" x2="224.2" y2="51.9"/>
+		<line class="st0" x1="224.2" y1="52.9" x2="224.2" y2="53.9"/>
+	</g>
+</g>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" fit-margin-bottom="10" fit-margin-left="10" fit-margin-right="10" fit-margin-top="10" id="base" inkscape:current-layer="layer2" inkscape:cx="40.13189" inkscape:cy="121.63881" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1138" inkscape:window-maximized="1" inkscape:window-width="1912" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="0.87707447" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="ray">
+	<path class="st2" d=""/>
+	<path id="path3762" inkscape:connector-curvature="0" class="st3" d="M497.4,385.4l-4,4l14-4l-14-4L497.4,385.4z"/>
+	<path id="path2985" inkscape:connector-curvature="0" class="st3" d="M507.4,385.4"/>
+</g>
+<g id="layer5" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="0 and 1">
+	<text transform="matrix(1 0 0 1 281.7582 409.5767)" class="st4 st5">0</text>
+	<text transform="matrix(1 0 0 1 340.3195 409.3789)" class="st4 st5">1</text>
+	<path id="path4200" inkscape:connector-curvature="0" class="st6" d="M285.5,376.4v18.1"/>
+	<path id="path4200-89" inkscape:connector-curvature="0" class="st6" d="M345.2,376.4v18.1"/>
+</g>
+<g id="layer2" transform="translate(-61.329693,-365.88632)" inkscape:groupmode="layer" inkscape:label="other numbers">
+	<text transform="matrix(1 0 0 1 400.1649 409.5767)" class="st4 st5">2</text>
+	<text transform="matrix(1 0 0 1 459.5049 409.5767)" class="st4 st5">3</text>
+	<path id="path4200-3" inkscape:connector-curvature="0" class="st6" d="M404.7,376.4v18.1"/>
+	<path id="path4200-72" inkscape:connector-curvature="0" class="st6" d="M464.2,376.4v18.1"/>
+	<text transform="matrix(1 0 0 1 217.043 409.3789)" class="st4 st5">-1</text>
+	<text transform="matrix(1 0 0 1 157.5894 409.5767)" class="st4 st5">-2</text>
+	<text transform="matrix(1 0 0 1 97.9272 409.5767)" class="st4 st5">-3</text>
+	<path id="path4200-8" inkscape:connector-curvature="0" class="st6" d="M166.7,376.4v18.1"/>
+	<path id="path4200-7" inkscape:connector-curvature="0" class="st6" d="M226.2,376.4v18.1"/>
+	<path id="path4200-1" inkscape:connector-curvature="0" class="st6" d="M107.2,376.4v18.1"/>
+</g>
+<path id="path4200_1_" inkscape:connector-curvature="0" class="st6" d="M435.3,19.6H8"/>
+<line class="st0" x1="305" y1="19.8" x2="305" y2="32.1"/>
+<rect x="302.3" y="35" class="st2" width="6.5" height="11"/>
+<text transform="matrix(1 0 0 1 302.3333 43.5199)" class="st7 st4 st8">x</text>
+<line class="st0" x1="143.7" y1="19" x2="143.7" y2="31.3"/>
+<rect x="138.8" y="34.6" class="st2" width="9.7" height="11.8"/>
+<text transform="matrix(1 0 0 1 138.81 43.1273)" class="st7 st4 st8">-x</text>
+</svg>
