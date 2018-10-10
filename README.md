@@ -8,4 +8,6 @@ https://de.wikibooks.org/wiki/Mathe_f%C3%BCr_Nicht-Freaks:_Lineare_Abbildungen,_
 Plans are to write this more nicely, transforming the spaghetti-code into some kind of object-oriented formulation, hopefully still flexible enough for other animations for "Mathe für Nicht-Freaks". 
 
 e.g.
-![alt text](https://github.com/stefanhuber1993/SerloAnimations/blob/master/streckung_homogenitaet.gif)
+![alt text](https://github.com/stefanhuber1993/SerloAnimations/blob/master/LineareAlgebra1/LineareAbbildungen/streckung_homogenitaet.gif)
+
+
