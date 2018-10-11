@@ -51,7 +51,7 @@ z
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="line2d_1">
-    <path clip-path="url(#paf9d0ea01c)" d="M 217.922727 211.851818 
+    <path clip-path="url(#p037f0ca38b)" d="M 217.922727 211.851818 
 L 216.129339 210.104711 
 L 214.33595 208.357603 
 L 212.542562 206.610496 
@@ -285,7 +285,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="paf9d0ea01c">
+  <clipPath id="p037f0ca38b">
    <rect height="190.26" width="195.3" x="31.5" y="30.24"/>
   </clipPath>
  </defs>

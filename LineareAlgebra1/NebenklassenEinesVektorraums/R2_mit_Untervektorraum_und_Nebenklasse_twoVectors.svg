@@ -59,10 +59,21 @@ L 94.202357 52.24087
 z
 " style="stroke:#000000;stroke-linejoin:miter;"/>
    </g>
+   <g id="patch_6">
+    <path d="M 164.659091 106.33791 
+L 160.892783 111.667167 
+L 159.649901 110.611974 
+L 129.162554 136.495399 
+L 129.137446 136.474082 
+L 159.624793 110.590657 
+L 158.381911 109.535464 
+z
+" style="stroke:#000000;stroke-linejoin:miter;"/>
+   </g>
    <g id="matplotlib.axis_1"/>
    <g id="matplotlib.axis_2"/>
    <g id="line2d_1">
-    <path clip-path="url(#p6fda852da1)" d="M 217.922727 211.851818 
+    <path clip-path="url(#p4100a40832)" d="M 217.922727 211.851818 
 L 216.129339 210.329251 
 L 214.33595 208.806684 
 L 212.542562 207.284117 
@@ -165,7 +176,7 @@ L 40.377273 61.117663
 " style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:1.5;"/>
    </g>
    <g id="line2d_2">
-    <path clip-path="url(#p6fda852da1)" d="M 217.922727 151.558156 
+    <path clip-path="url(#p4100a40832)" d="M 217.922727 151.558156 
 L 216.129339 150.035589 
 L 214.33595 148.513022 
 L 212.542562 146.990455 
@@ -410,10 +421,40 @@ z
      <use transform="translate(0 0.3125)" xlink:href="#DejaVuSans-Oblique-76"/>
     </g>
    </g>
+   <g id="text_5">
+    <!-- $v‘$ -->
+    <defs>
+     <path d="M 18.796875 48.875 
+L 8.5 48.875 
+L 8.5 57.328125 
+L 16.5 72.90625 
+L 22.796875 72.90625 
+L 18.796875 57.328125 
+z
+" id="DejaVuSansDisplay-2018"/>
+    </defs>
+    <g transform="translate(146.904545 128.948033)scale(0.1 -0.1)">
+     <use transform="translate(0 0.09375)" xlink:href="#DejaVuSans-Oblique-76"/>
+     <use transform="translate(59.179688 0.09375)" xlink:href="#DejaVuSansDisplay-2018"/>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $v+U = v‘+U$ -->
+    <g style="fill:#0000ff;" transform="translate(143.353636 82.220445)scale(0.1 -0.1)">
+     <use transform="translate(0 0.09375)" xlink:href="#DejaVuSans-Oblique-76"/>
+     <use transform="translate(78.662109 0.09375)" xlink:href="#DejaVuSans-2b"/>
+     <use transform="translate(181.933594 0.09375)" xlink:href="#DejaVuSans-Oblique-55"/>
+     <use transform="translate(274.609375 0.09375)" xlink:href="#DejaVuSans-3d"/>
+     <use transform="translate(377.880859 0.09375)" xlink:href="#DejaVuSans-Oblique-76"/>
+     <use transform="translate(437.060547 0.09375)" xlink:href="#DejaVuSansDisplay-2018"/>
+     <use transform="translate(488.330078 0.09375)" xlink:href="#DejaVuSans-2b"/>
+     <use transform="translate(591.601562 0.09375)" xlink:href="#DejaVuSans-Oblique-55"/>
+    </g>
+   </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p6fda852da1">
+  <clipPath id="p4100a40832">
    <rect height="190.26" width="195.3" x="31.5" y="30.24"/>
   </clipPath>
  </defs>
