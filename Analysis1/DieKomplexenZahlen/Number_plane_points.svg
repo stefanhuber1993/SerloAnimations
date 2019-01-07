@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="Number_plane_multiplication_with_minus1_rotation.svg" inkscape:version="0.92.1 r15371"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="540px" height="540px"
+	 viewBox="0 -126 540 540" enable-background="new 0 -126 540 540" xml:space="preserve">
+<g id="path4200_3_" inkscape:connector-curvature="0">
+	<g>
+		<line fill="none" stroke="#FF0000" x1="446.371" y1="42.272" x2="446.371" y2="45.272"/>
+		<line fill="none" stroke="#FF0000" stroke-dasharray="6.023,6.023" x1="446.371" y1="51.295" x2="446.371" y2="144.652"/>
+		<line fill="none" stroke="#FF0000" x1="446.371" y1="147.664" x2="446.371" y2="150.664"/>
+	</g>
+</g>
+<g id="path4200_4_" inkscape:connector-curvature="0">
+	<g>
+		<line fill="none" stroke="#FF0000" x1="448.512" y1="44.414" x2="445.512" y2="44.414"/>
+		<line fill="none" stroke="#FF0000" stroke-dasharray="6.0564,6.0564" x1="439.455" y1="44.414" x2="272.905" y2="44.414"/>
+		<line fill="none" stroke="#FF0000" x1="269.877" y1="44.414" x2="266.877" y2="44.414"/>
+	</g>
+</g>
+<sodipodi:namedview  id="base" fit-margin-left="10" bordercolor="#666666" borderopacity="1.0" fit-margin-top="10" inkscape:cx="134.11849" inkscape:cy="96.003316" inkscape:zoom="1.7541489" pagecolor="#ffffff" showgrid="false" fit-margin-right="10" inkscape:current-layer="layer2" fit-margin-bottom="10" inkscape:document-units="px" inkscape:window-width="1366" inkscape:window-x="-8" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-y="-8" inkscape:window-height="705" inkscape:window-maximized="1">
+	</sodipodi:namedview>
+<g id="layer1" transform="translate(-61.329693,-365.88632)" inkscape:label="ray" inkscape:groupmode="layer">
+	<path id="path3762" inkscape:connector-curvature="0" stroke="#000000" d="M529.031,516.552l-5.409,5.406l18.932-5.406
+		l-18.932-5.41L529.031,516.552z"/>
+	<path id="path2985" inkscape:connector-curvature="0" stroke="#000000" d="M542.551,516.552"/>
+</g>
+<g id="layer5_1_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_1_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M292.284,510.8v12.266"/>
+</g>
+<g id="layer5_2_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_2_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M256.284,510.8v12.266"/>
+</g>
+<g id="layer5_3_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_3_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M220.284,510.8v12.266"/>
+</g>
+<g id="layer5_4_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_4_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M184.284,510.8v12.266"/>
+</g>
+<g id="layer5_5_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_5_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M148.284,510.8v12.266"/>
+</g>
+<path id="path4200_1_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M471.104,150.967H72.916"/>
+<g id="g121_1_">
+	<g id="g119_1_">
+		<line id="line113_1_" fill="none" stroke="#000000" x1="72.393" y1="150.967" x2="71.717" y2="150.967"/>
+		
+			<line id="line115_1_" fill="none" stroke="#000000" stroke-dasharray="0.9282,0.9282" x1="70.5" y1="150.967" x2="63.604" y2="150.967"/>
+		<line id="line117_1_" fill="none" stroke="#000000" x1="62.928" y1="150.967" x2="62.252" y2="150.967"/>
+	</g>
+</g>
+<text id="text71" transform="matrix(1 0 0 1 221.6431 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">-1</text>
+<text id="text71_10_" transform="matrix(1 0 0 1 278.9551 120.3369)" font-family="'MyriadPro-Regular'" font-size="20.2817">1i</text>
+<text id="text71_11_" transform="matrix(1 0 0 1 278.9551 82.8369)" font-family="'MyriadPro-Regular'" font-size="20.2817">2i</text>
+<text id="text71_12_" transform="matrix(1 0 0 1 278.9551 47.8369)" font-family="'MyriadPro-Regular'" font-size="20.2817">3i</text>
+<text id="text71_13_" transform="matrix(1 0 0 1 278.9551 14.0938)" font-family="'MyriadPro-Regular'" font-size="20.2817">4i</text>
+<text id="text71_14_" transform="matrix(1 0 0 1 278.9551 -21.4062)" font-family="'MyriadPro-Regular'" font-size="20.2817">5i</text>
+<text id="text71_20_" transform="matrix(1 0 0 1 277.6221 192.8438)" font-family="'MyriadPro-Regular'" font-size="20.2817">-1i</text>
+<text id="text71_16_" transform="matrix(1 0 0 1 277.6221 229.2188)" font-family="'MyriadPro-Regular'" font-size="20.2817">-2i</text>
+<text id="text71_17_" transform="matrix(1 0 0 1 277.6221 265.3438)" font-family="'MyriadPro-Regular'" font-size="20.2817">-3i</text>
+<text id="text71_18_" transform="matrix(1 0 0 1 277.6221 301.3438)" font-family="'MyriadPro-Regular'" font-size="20.2817">-4i</text>
+<text id="text71_19_" transform="matrix(1 0 0 1 277.6221 337.0938)" font-family="'MyriadPro-Regular'" font-size="20.2817">-5i</text>
+<text id="text71_1_" transform="matrix(1 0 0 1 186.6431 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">-2</text>
+<text id="text71_3_" transform="matrix(1 0 0 1 148.3101 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">-3</text>
+<text id="text71_2_" transform="matrix(1 0 0 1 113.3101 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">-4</text>
+<text id="text71_4_" transform="matrix(1 0 0 1 77.3101 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">-5</text>
+<text id="text71_9_" transform="matrix(1 0 0 1 441.3105 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">5</text>
+<text id="text71_8_" transform="matrix(1 0 0 1 406.3105 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">4</text>
+<text id="text71_7_" transform="matrix(1 0 0 1 367.9766 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">3</text>
+<text id="text71_6_" transform="matrix(1 0 0 1 332.9766 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">2</text>
+<text id="text71_5_" transform="matrix(1 0 0 1 296.9766 175.9649)" font-family="'MyriadPro-Regular'" font-size="20.2817">1</text>
+<g id="layer5_10_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_10_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M507.701,510.64v12.266"/>
+</g>
+<g id="layer5_9_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_9_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M471.701,510.64v12.266"/>
+</g>
+<g id="layer5_8_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_8_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M435.701,510.64v12.266"/>
+</g>
+<g id="layer5_7_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_7_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M399.701,510.64v12.266"/>
+</g>
+<g id="layer5_6_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_6_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M363.701,510.64v12.266"/>
+</g>
+<g id="layer1_1_" transform="translate(-61.329693,-365.88632)" inkscape:label="ray" inkscape:groupmode="layer">
+	<path id="path3762_1_" inkscape:connector-curvature="0" stroke="#000000" d="M327.826,316.97l5.406,5.409l-5.406-18.932
+		l-5.41,18.932L327.826,316.97z"/>
+	<path id="path2985_1_" inkscape:connector-curvature="0" stroke="#000000" d="M327.826,303.449"/>
+</g>
+<g id="layer5_20_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_20_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M322.074,553.716h12.266"/>
+</g>
+<g id="layer5_19_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_19_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M322.074,589.716h12.266"/>
+</g>
+<g id="layer5_18_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_18_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M322.074,625.716h12.266"/>
+</g>
+<g id="layer5_17_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_17_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M322.074,661.716h12.266"/>
+</g>
+<g id="layer5_16_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_16_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M322.074,697.716h12.266"/>
+</g>
+<path id="path4200_2_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M266.797-52.319v398.188"/>
+<g id="g121_2_">
+	<g id="g119_2_">
+		<line id="line113_2_" fill="none" stroke="#000000" x1="266.797" y1="346.393" x2="266.797" y2="347.068"/>
+		
+			<line id="line115_2_" fill="none" stroke="#000000" stroke-dasharray="0.9282,0.9282" x1="266.797" y1="348.285" x2="266.797" y2="355.182"/>
+		<line id="line117_2_" fill="none" stroke="#000000" x1="266.797" y1="355.857" x2="266.797" y2="356.533"/>
+	</g>
+</g>
+<g id="layer5_15_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_15_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M321.914,338.3h12.266"/>
+</g>
+<g id="layer5_14_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_14_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M321.914,374.3h12.266"/>
+</g>
+<g id="layer5_13_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_13_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M321.914,410.3h12.266"/>
+</g>
+<g id="layer5_12_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_12_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M321.914,446.3h12.266"/>
+</g>
+<g id="layer5_11_" transform="translate(-61.329693,-365.88632)" inkscape:label="0 and 1" inkscape:groupmode="layer">
+	<path id="path4200-89_11_" inkscape:connector-curvature="0" fill="none" stroke="#000000" d="M321.914,482.3h12.266"/>
+</g>
+<circle fill="#FF0000" cx="446.371" cy="151.047" r="2.141"/>
+<circle fill="#FF0000" cx="446.371" cy="44.414" r="2.141"/>
+<circle fill="#FF0000" cx="266.494" cy="44.414" r="2.141"/>
+<circle fill="#FF0000" cx="266.877" cy="295.83" r="2.141"/>
+<circle fill="#FF0000" cx="194.955" cy="151.047" r="2.141"/>
+<text id="text4032_2_" transform="matrix(1 0 0 1 415.3516 144)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="16.2254">(5,0)</text>
+<text id="text4032_5_" transform="matrix(1 0 0 1 432.3516 34.9077)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="16.2254">(5,3)</text>
+<text id="text4032_3_" transform="matrix(1 0 0 1 226.3511 47.8369)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="16.2254">(0,3)</text>
+<text id="text4032_4_" transform="matrix(1 0 0 1 222.3511 299.3438)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="16.2254">(0,-4)</text>
+<text id="text4032_1_" transform="matrix(1 0 0 1 178.3516 140.2408)" fill="#FF0000" font-family="'MyriadPro-Regular'" font-size="16.2254">(-2,0)</text>
+</svg>
